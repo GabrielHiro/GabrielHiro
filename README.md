@@ -1,7 +1,7 @@
 <img src="https://github.com/GabrielHiro/GabrielHiro/blob/dbe6cf0c0c801521340018d8aee246d87f1f192b/Imagens/Imagemperfil.png" min-width="250px" max-width="350px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é <a href="https://criarmeulink.com.br/u/1683233461" alt="Gmail">Gabriel Hiro Furukawa</a>, tenho 19 anos e sou formado em técnico em informática para internet. Atualmente, estou cursando Tecnologia em Análise e desenvolvimento de sistemas. Tenho experiência em manutenção eletroeletrônica e desenvolvimento de sistemas. Sou entusiasta de tecnologia e inovação, e estou sempre buscando aprender algo novo.
+  Olá, meu nome é <a href="https://www.linkedin.com/in/hiro-gabri3l/" alt="Linkedin">Gabriel Hiro Furukawa</a>, tenho 19 anos e sou formado em técnico em informática para internet. Atualmente, estou cursando Tecnologia em Análise e desenvolvimento de sistemas. Tenho experiência em manutenção eletroeletrônica e desenvolvimento de sistemas. Sou entusiasta de tecnologia e inovação, e estou sempre buscando aprender algo novo.
 </p>
 
 <p align="left">
