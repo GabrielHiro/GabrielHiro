@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Para entrar em contato comigo, sinta-se à vontade para utilizar os links abaixo: ⤵️
+  💌 Para entrar em contato comigo, sinta-se à vontade para utilizar os links ⤵️
 </p>
 
 <p align="left">
