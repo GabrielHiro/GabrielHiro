@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🧠 Linguagens: <strong>Java, Javascript e C++.</strong>
+  🧠 Linguagens: <strong>Go, Java, Javascript e C++.</strong>
 </p>
 
 <p align="left">
