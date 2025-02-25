@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>NodeJS, Eclipse, MySQL e NetBeans.</strong>
+  💼 Ferramentas: <strong>NodeJS, Git e Linux Ubuntu</strong>
 </p>
 
 <p align="left">
