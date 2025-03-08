@@ -1,7 +1,6 @@
 <img src="https://github.com/GabrielHiro/GabrielHiro/blob/dbe6cf0c0c801521340018d8aee246d87f1f192b/Imagens/Imagemperfil.png" min-width="250px" max-width="350px" width="300px" align="right" alt="Gabriel Hiro Furukawa">
 
-
-# 👋 Olá, sou **Gabriel Hiro Furukawa**  
+# **Gabriel Hiro Furukawa**  
 
 💻 **Desenvolvedor de Sistemas e Software Embarcados** | ⚡ **Eletricista Eletroeletrônico** | 🔧 **Especialista em Golang, C/C++ e JavaScript**  
 
@@ -15,7 +14,7 @@ Sou um profissional apaixonado por tecnologia e inovação, com experiência em 
 - 🔹 **Desenvolvimento de sistemas embarcados**  
 - 🔹 **Integração de software e hardware**  
 - 🔹 **Arquitetura de software e escalabilidade**  
-- 🔹 **Automação e eletrônica**  
+- 🔹 **Automação industrial e eletrônica**  
 
 ---
 
