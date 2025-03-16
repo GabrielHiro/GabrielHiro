@@ -8,7 +8,6 @@ Sou um profissional apaixonado por tecnologia e inovação, com experiência em 
 
 ## 🚀 **Minhas Habilidades**
 - 📌 **Linguagens:**
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
