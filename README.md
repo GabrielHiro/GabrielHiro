@@ -30,7 +30,7 @@ Sou um profissional apaixonado por tecnologia e inovação, com experiência em 
 - ✅ Enterprise UI Development: Testing  
 - ✅ Scrum Fundamentals Certified (SFC)  
 - ✅ JavaScript Performance  
-
+- ➕ **35 certificações**
 ---
 
 ## 💼 **Experiência Profissional**
