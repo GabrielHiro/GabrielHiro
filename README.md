@@ -7,8 +7,20 @@ Sou um profissional apaixonado por tecnologia e inovação, com experiência em 
 ---
 
 ## 🚀 **Minhas Habilidades**
-- 📌 **Linguagens:** Go, C, C++, JavaScript  
-- 📌 **Ferramentas:** Git, Linux, NodeJS  
+- 📌 **Linguagens:**
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
+
+- 📌 **Ferramentas:**
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![GPG](https://img.shields.io/badge/-GPG-000?&logo=GnuPG)
 - 🔹 **Desenvolvimento de sistemas embarcados**  
 - 🔹 **Integração de software e hardware**  
 - 🔹 **Arquitetura de software e escalabilidade**  
@@ -40,33 +52,11 @@ Sou um profissional apaixonado por tecnologia e inovação, com experiência em 
 - 🔹 **Aprendiz Eletricista de Manutenção** – *YKK* *(Jan 2021 - Dez 2022)*  
 
 ---
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-## 📬 **Entre em Contato**
-<p align="left">
-  <a href="mailto:hirogabri3l@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/hiro-gabri3l/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
+## 📡 Conecte-se Comigo!
 
-  <a href="https://wa.me/5515991050324?text=Ol%C3%A1%2C+Vim+Pelo+seu+GitHub%21" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
-  
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hiro-gabri3l/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false"/>
-   
-</p>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirogabri3l@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiro-gabri3l/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991050324?text=Ol%C3%A1%2C+Vim+Pelo+seu+GitHub%21)
+
+---
