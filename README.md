@@ -30,8 +30,8 @@ Sou um profissional apaixonado por tecnologia e inovação, com experiência em 
 ## 🎓 **Formação Acadêmica**
 - 🎓 **Centro Universitário Facens** – Pós-graduação em Arquitetura de Software *(2024 - 2026)*  
 - 🎓 **Centro Universitário Facens** – Tecnólogo em Análise e Desenvolvimento de Sistemas *(2022 - 2024)*  
-- 🎓 **SENAI São Paulo** – Eletricista de Manutenção Eletroeletrônica *(2021 - 2022)*  
-- 🎓 **SENAI São Paulo** – Desenvolvedor Web Fullstack *(2020 - 2022)*  
+- 🎓 **SENAI Gaspar Ricardo Júnior** – Eletricista de Manutenção Eletroeletrônica *(2021 - 2022)*  
+- 🎓 **SENAI Gaspar Ricardo Júnior** – Desenvolvedor Web Fullstack *(2020 - 2022)*  
 
 ---
 
