@@ -48,7 +48,7 @@ Sou um profissional apaixonado por tecnologia e inovação, com experiência em 
 - 🔹 **Analista de Desenvolvimento de Sistemas** – *Grupo Splice* *(Jul 2024 - Presente)*  
 - 🔹 **Estagiário em Desenvolvimento de Software** – *Grupo Splice* *(Ago 2023 - Jul 2024)*  
 - 🔹 **Eletromecânico** – *STULZ Brasil* *(Jul 2023)*  
-- 🔹 **Aprendiz Eletricista de Manutenção** – *YKK* *(Jan 2021 - Dez 2022)*  
+- 🔹 **Aprendiz Eletricista de Manutenção Eletroeletrônica** – *YKK* *(Jan 2021 - Dez 2022)*  
 
 ---
 
